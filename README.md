@@ -1,5 +1,5 @@
 # Paleo-neuro Final Project
-
+Original lesson plans for this project were written by Gabrielle Rabinowitz, the lead teacher for BridgeUP: STEM at the American Museum of Natural History.
 
 ## Calendar
 
