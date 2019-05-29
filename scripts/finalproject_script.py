@@ -42,5 +42,29 @@ y = data[:,1]
 clf = clf.fit(x, y)
 
 # plot the decision tree
-tree.plot_tree(clf, class_names=["Bird","Dino"]) 
+tree.plot_tree(clf, class_names=["Bird","Dino"])
 plt.show()
+
+#Better visualization
+from sklearn.tree import export_graphviz
+from IPython.display import Image
+import pydotplus
+import graphviz
+
+dot_data = StringIO()
+export_graphviz(clf, out_file=dot_data,
+                filled=True, rounded=True,
+                special_characters=True,feature_names = ['Brain Body Ratio', 'Cerebrum Ratio'],class_names=['Bird','Dino'])
+graph = pydotplus.graph_from_dot_data(dot_data.getvalue())
+# Save a png of the decision tree
+graph.write_png('bird_dino.png')
+Image(graph.create_png())
+
+# More direct code to just plot the tree
+dot_data = tree.export_graphviz(clf, out_file=None,
+                     feature_names= ['Brain Body Ratio', 'Cerebrum Ratio'],
+                      class_names=['Bird','Dino'],
+                      filled=True, rounded=True,
+                      special_characters=True)
+graph = graphviz.Source(dot_data)
+graph 
