@@ -9,8 +9,10 @@
 
 2. *Pachycephalosaurus*  
    [Butting Heads Over Skull Injuries and Dinosaur Head-Butts](https://www.nationalgeographic.com/science/phenomena/2013/07/19/butting-heads-over-skull-injuries-and-dinosaur-head-butts/)
+   [10 Bone-Headed Facts About Pachycephalosaurus](http://mentalfloss.com/article/58415/10-bone-headed-facts-about-pachycephalosaurus)
 
-3. *Triceratops*
+3. *Triceratops*  
+   [The Supracranial Sinus of the Horned Dinosaur Skull](https://blogs.scientificamerican.com/tetrapod-zoology/the-supracranial-sinus-of-the-horned-dinosaur-skull/?redirect=1)
 
 ## Saurischian Dinosaurs
 
@@ -22,4 +24,5 @@
   [Deinonychus - Encyclopedia Britannica](https://www.britannica.com/animal/Deinonychus)  
   [Troodon formosus](https://www.nationalgeographic.com/animals/prehistoric/troodon-formosus/)
 
-3. *Archaeopteryx*
+3. *Archaeopteryx*  
+   [Archaeopteryx was no birdbrain, but neither was it bird brained](https://www.theguardian.com/science/lost-worlds/2013/aug/08/dinosaurs-fossils)
