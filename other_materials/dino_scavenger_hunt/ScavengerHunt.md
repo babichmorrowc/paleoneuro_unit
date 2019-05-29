@@ -1,8 +1,12 @@
 # Dinosaur Scavenger Hunt
 
-Explore the two dinosaur halls, focusing on what you can learn about the brains and skulls of different species. What can you infer about possible differences in intelligence between species? Are there certain types of dinosaurs that have larger brains overall? In particular, look out for six dinosaur species (3 ornithischian and 3 saurischian):
+Explore the two dinosaur halls, focusing on what you can learn about the brains and skulls of different species. What can you infer about possible differences in intelligence between species? Are there certain types of dinosaurs that have larger brains overall? Take note of any interesting facts you notice about different species.
 
+In particular, look out for these six dinosaur species (3 ornithischian and 3 saurischian):
 
+![]( dino_silhouettes.png)
+
+When you find the dinosaurs matching each clue, write down the name and see what you can learn about that species' brain.
 
 ## Ornithischian Dinosaurs
 
@@ -25,3 +29,6 @@ Explore the two dinosaur halls, focusing on what you can learn about the brains 
    
 3. **Bird-brain:** This dinosaur is thought to be most closely related to birds.  
    Its brain to body ratio is between that of most dinosaurs and that of birds.
+   
+   
+This scavenger hunt was created with the help of Scott Johnston, fossil preparator at AMNH. Dinosaur silhouettes from PhyloPic by: Scott Hartman, Emily Willoughby, Raven Amos, Maija Karala, Manabu Sakamoto, and T. Michael Keesey.
