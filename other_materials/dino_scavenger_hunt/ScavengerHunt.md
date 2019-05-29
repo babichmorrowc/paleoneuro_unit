@@ -4,7 +4,7 @@ Explore the two dinosaur halls, focusing on what you can learn about the brains 
 
 In particular, look out for these six dinosaur species (3 ornithischian and 3 saurischian):
 
-![]( dino_silhouettes.png)
+![dinos|20%]( dino_silhouettes.png)
 
 When you find the dinosaurs matching each clue, write down the name and see what you can learn about that species' brain.
 
