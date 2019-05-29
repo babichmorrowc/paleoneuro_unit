@@ -1,8 +1,19 @@
 # Dinosaur Scavenger Hunt
 
+Explore the two dinosaur halls, focusing on what you can learn about the brains and skulls of different species. What can you infer about possible differences in intelligence between species? Are there certain types of dinosaurs that have larger brains overall? In particular, look out for six dinosaur species (3 ornithischian and 3 saurischian):
+
+
+
 ## Ornithischian Dinosaurs
 
-1. This dinosaur was originally thought to have 2 brains, one in the skull and another above its rear legs.
+1. **Butt brain:** This dinosaur was originally thought to have 2 brains, one in the skull and another above its rear legs.  
+   Actually, the bundle of nerves above the legs is thought to be a glycogen body, an organ that birds have with unknown function.
+
+2. **Thick-headed:** This dinosaur's skull was up to 10 inches thick to cushion their tiny brains.  
+   Paleontologists in the late 1800s mistook their skulls for dinosaur kneecaps (dinosaurs don't actually have kneecaps).
+   
+3. **Sinus strategies:** This three-horned dinosaur's brain is actually very low in the skull, below the eye sockets, because of their large sinuses.  
+   This sinus structure might have been used to protect the brain during conflict or to cool the brain down (or maybe it's just a consequence of the way the skull grows).
 
 ## Saurischian Dinosaurs
 
@@ -12,4 +23,5 @@
 2. **"Hand-robbers":** This member of the maniraptors ("hand-robbers") was an agile predator with a large brain that enabled it to chase and kill.  
    It was a close relative of *Troodon*, one of the smartest dinosaurs (AMNH does not have *Troodon* on display). Its skeleton is very similar to early bird skeletons.
    
-3.
+3. **Bird-brain:** This dinosaur is thought to be most closely related to birds.  
+   Its brain to body ratio is between that of most dinosaurs and that of birds.
